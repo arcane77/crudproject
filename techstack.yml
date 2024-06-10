@@ -1,0 +1,31 @@
+repo_name: arcane77/crudproject
+report_id: 80b1904281eb88f5b5ae242f085c33d4
+version: 0.1
+repo_type: Public
+timestamp: '2024-06-10T18:52:57+00:00'
+requested_by: Nikhil-Gowda-T-P
+provider: github
+branch: main
+detected_tools_count: 2
+tools:
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/arcane77/crudproject
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/arcane77/crudproject
+  detection_source: Repo Metadata
